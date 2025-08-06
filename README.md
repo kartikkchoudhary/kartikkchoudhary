@@ -2,11 +2,9 @@
 
 **Quantitative Finance & Data Science | Mathematics & Statistics Undergraduate**
 
-- 📚 Deeply focused on mastering mathematics, statistics, and computer science  
-- 🔁 Paused content creation to solidify fundamentals for long-term goals  
-- 💡 Exploring Quant Finance, ML/DL, C++, R, and high-performance computing  
-- 🧑‍🔬 Interested in simulations, time series, and algorithmic trading systems  
-- 🛠️ Planning to contribute to open-source R and Python projects soon
+**Learning Path: ML → AI → Quant**  
+**Open-Source Contributor (R & C++)**
+
 
 ## 🎯 Learning Journey
 
