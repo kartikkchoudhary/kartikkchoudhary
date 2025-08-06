@@ -1,6 +1,6 @@
 # Kartik Choudhary
 
-**Quantitative Finance & Data Science | Mathematics & Statistics Undergraduate**
+**Machine Learning & Data Science | Mathematics & Statistics Undergraduate**
 
 **Learning Path: ML → AI → Quant**  
 **Open-Source Contributor (R & C++)**
@@ -21,6 +21,6 @@ Currently focused on theory and core skills — projects coming soon.
 ## 📫 Contact
 
 - **Email**: kartik.youlike@gmail.com 
-- **Twitter/X**: [@kartikcodes](https://twitter.com/kartikcodes)  
+ 
 
 
