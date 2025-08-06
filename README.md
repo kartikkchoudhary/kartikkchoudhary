@@ -1,28 +1,28 @@
 # Kartik Choudhary
 
-**Machine Learning & Data Science | CS Undergraduate**
+**Quantitative Finance & Data Science | Mathematics & Statistics Undergraduate**
 
-- 📚 Documenting and studying ML/DS full-time  
-- 🛠 Building real projects with clean code, full pipelines, and documentation  
-- 🎥 Sharing progress and explaining **ML/DS** on YouTube & GitHub
+- 📚 Deeply focused on mastering mathematics, statistics, and computer science  
+- 🔁 Paused content creation to solidify fundamentals for long-term goals  
+- 💡 Exploring Quant Finance, ML/DL, C++, R, and high-performance computing  
+- 🧑‍🔬 Interested in simulations, time series, and algorithmic trading systems  
+- 🛠️ Planning to contribute to open-source R and Python projects soon
 
-## 🚀 Projects
+## 🎯 Learning Journey
 
-- **📘 ML Theory & Notebooks**  
-  ML notes and derivations from *Hands-On Machine Learning* and *ISLR*. Includes math, Python code, and notebooks.  
-  → [Repository](https://github.com/kartikchoudhary/ml-notebooks)
+- Mathematical Statistics | Linear Algebra | Probability Theory  
+- Machine Learning (Classical + Deep Learning)  
+- Quantitative Finance (Derivatives, Risk Models, Portfolio Theory)  
+- C++ | Python | R | SQL | MATLAB 
+- Research & Simulation-based Modeling
 
-- **📊 Dashboards & Data Projects**  
-  Real-world datasets with full data analysis, dashboards, visualizations, and reports.  
-  → [Repository](https://github.com/kartikchoudhary/data-projects)
+## 🚧 Projects
 
-- **🧠 AI & Deep Learning Projects**  
-  Neural network and deep learning models built using TensorFlow/Keras and PyTorch.  
-  → [Repository](https://github.com/kartikchoudhary/ai-projects)
+Currently focused on theory and core skills — projects coming soon.
 
 ## 📫 Contact
 
-- **Email**: kartikchoudhary@email.com  
+- **Email**: kartik.youlike@gmail.com 
 - **Twitter/X**: [@kartikcodes](https://twitter.com/kartikcodes)  
-- **YouTube**: [Kartik Learns](https://www.youtube.com/@kartiklearns)
+
 
